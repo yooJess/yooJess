@@ -1,4 +1,6 @@
 <h1>Hello there, I'm Jesse! <br/>
+<h4>Bear with me, I'm just getting started! I'll start to upload more of my projects onto here as I progress!<br/>
+
 
 <h2>👨‍💻Linux and SQL Stuff!</h2>
 
