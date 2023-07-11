@@ -1,8 +1,29 @@
-### Hi there 👋
+<h1>Hello there, I'm Jesse! <br/>
+
+<h2>👨‍💻Linux and SQL Stuff!</h2>
+
+- <b>Linux</b>
+  - [Finding Files in Linux]<!-- Need to put links here, so they can navigate to the site-->
+  - [Linus Project 2]
+  - [Linux Project 3]
+    
+- <b>SQL</b>
+  - [Performing an SQL Query]
+  - [SQL Project 2]
+  - [SQL Project 3]
+
+- <b>Python</b>
+  - [Python Project 1]
+
+<h3> 🤳 Connect with me:</h3>
+
+[<img align="left" alt="JesseHer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JesseHer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+[youtube]: https://www.youtube.com/c/yoojesss
+[linkedin]: https://linkedin.com/in/jesseheru
 
 <!--
-**yooJess/yooJess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
