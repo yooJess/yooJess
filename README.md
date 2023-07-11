@@ -5,7 +5,7 @@
 <h2>👨‍💻Linux and SQL Stuff!</h2>
 
 - <b>Linux</b>
-  - [Finding Files in Linux]<!-- Need to put links here, so they can navigate to the site-->
+  - [Finding Files in Linux](https://github.com/yooJess/FindingFilesInLinux/tree/main)<!-- Need to put links here, so they can navigate to the site-->
   - [Linus Project 2]
   - [Linux Project 3]
     
