@@ -5,12 +5,12 @@
 <h2>👨‍💻Linux and SQL Stuff!</h2>
 
 - <b>Linux</b>
-  - [Finding Files in Linux](https://github.com/yooJess/FindingFilesInLinux/tree/main)<!-- Need to put links here, so they can navigate to the site-->
-  - [Linus Project 2]
+  - [Finding Files in Linux](https://github.com/yooJess/FindingFilesInLinux/tree/main)
+  - [Managing Files in Linux]<!-- Need to put links here, so they can navigate to the site-->
   - [Linux Project 3]
     
 - <b>SQL</b>
-  - [Performing an SQL Query]
+  - [Performing an SQL Query]<!-- Need to put links here, so they can navigate to the site-->
   - [SQL Project 2]
   - [SQL Project 3]
 
