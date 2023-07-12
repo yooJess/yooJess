@@ -6,16 +6,19 @@
 
 - <b>Linux</b>
   - [Finding Files in Linux](https://github.com/yooJess/FindingFilesInLinux/tree/main)
-  - [Managing Files in Linux]<!-- Need to put links here, so they can navigate to the site-->
-  - [Linux Project 3]
+<!-- Need to put links here, so they can navigate to the site
+  - [Managing Files in Linux]
+  - [Linux Project 3] -->
     
 - <b>SQL</b>
-  - [Performing an SQL Query]<!-- Need to put links here, so they can navigate to the site-->
+<!-- Need to put links here, so they can navigate to the site
+  - [Performing an SQL Query]
   - [SQL Project 2]
-  - [SQL Project 3]
+  - [SQL Project 3]-->
 
 - <b>Python</b>
-  - [Python Project 1]
+<!-- Need to put links here, so they can navigate to the site
+  - [Python Project 1]-->
 
 <h3> 🤳 Connect with me:</h3>
 
