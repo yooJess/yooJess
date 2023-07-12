@@ -1,4 +1,4 @@
-<h1>Hello there, I'm Jesse! <br/>
+<h1>Hello world, I'm Jesse! <br/>
 <h5>Just getting started! I'll start to upload more of my projects onto here as I progress!<br/>
 
 
