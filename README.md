@@ -6,8 +6,8 @@
 
 - <b>Linux</b>
   - [Finding Files in Linux](https://github.com/yooJess/FindingFilesInLinux/tree/main)
-<!-- Need to put links here, so they can navigate to the site
-  - [Managing Files in Linux]
+  - [IN PROGRESS: Creating and Managing Files in Linux]
+  <!-- Need to put links here, so they can navigate to the site
   - [Linux Project 3] -->
     
 - <b>SQL</b>
