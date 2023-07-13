@@ -2,7 +2,7 @@
 <h5>Just getting started! I'll start to upload more of my projects onto here as I progress!<br/>
 
 
-<h2>👨‍💻Linux and SQL Stuff!</h2>
+<h2>👨‍💻Stuff I am working on!</h2>
 
 - <b>Linux</b>
   - [Finding Files in Linux](https://github.com/yooJess/FindingFilesInLinux/tree/main)
