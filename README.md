@@ -11,7 +11,7 @@
   - [Linux Project 3] -->
     
 - <b>SQL</b>
-  - [In Progress: Performing an SQL Query](https://github.com/yooJess/Perform-SQL-Query/blob/main/README.md)
+  - [Performing an SQL Query]([https://github.com/yooJess/Perform-SQL-Query/blob/main/README.md](https://github.com/yooJess/Perform-SQL-Query))
   <!-- Need to put links here, so they can navigate to the site
   - [SQL Project 2]
   - [SQL Project 3]-->
