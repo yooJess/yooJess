@@ -11,8 +11,8 @@
   - [Linux Project 3] -->
     
 - <b>SQL</b>
-<!-- Need to put links here, so they can navigate to the site
-  - [Performing an SQL Query]
+  - [In Progress: Performing an SQL Query]
+  <!-- Need to put links here, so they can navigate to the site
   - [SQL Project 2]
   - [SQL Project 3]-->
 
