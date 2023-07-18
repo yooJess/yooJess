@@ -15,6 +15,7 @@
   - [Filtering in SQL (=/%)](https://github.com/yooJess/Filter-SQL-Query)
   - [Filtering in SQL (BETWEEN/AND/>/<)](https://github.com/yooJess/Filter-in-SQL-Continued)
   - [AND, OR, NOT in SQL](https://github.com/yooJess/AND-OR-NOT-Filter-in-SQL/tree/main)
+  - [JOIN in SQL](https://github.com/yooJess/SQL-Join/tree/main)
   <!-- Need to put links here, so they can navigate to the site
   - [SQL Project 3]-->
 
