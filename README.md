@@ -12,8 +12,8 @@
     
 - <b>SQL</b>
   - [Performing an SQL Query](https://github.com/yooJess/Perform-SQL-Query)
+  - [Filtering in SQL](https://github.com/yooJess/Filter-SQL-Query)
   <!-- Need to put links here, so they can navigate to the site
-  - [SQL Project 2]
   - [SQL Project 3]-->
 
 - <b>Python</b>
