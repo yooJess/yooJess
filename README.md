@@ -12,8 +12,8 @@
     
 - <b>SQL</b>
   - [Performing an SQL Query](https://github.com/yooJess/Perform-SQL-Query)
-  - [Filtering in SQL](https://github.com/yooJess/Filter-SQL-Query)
-  - [Filtering in SQL (BETWEEN/AND)](https://github.com/yooJess/Filter-in-SQL-Continued)
+  - [Filtering in SQL (=/%)](https://github.com/yooJess/Filter-SQL-Query)
+  - [Filtering in SQL (BETWEEN/AND/>/<)](https://github.com/yooJess/Filter-in-SQL-Continued)
 
   <!-- Need to put links here, so they can navigate to the site
   - [SQL Project 3]-->
